@@ -19,7 +19,7 @@ const Marquee = () => {
               className="text-[10vw] leading-none  "
               data-line="0"
             >
-              Hello welcome to my website &nbsp;
+             ; Hello welcome to my website &nbsp;
             </motion.h1>
             <motion.h1
               initial={{ x: 0 }}

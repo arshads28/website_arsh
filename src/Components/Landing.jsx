@@ -31,10 +31,10 @@ const Landing = () => {
                       initial={{ width: 0 }}
                       animate={{ width: "15vw" }}
                       transition={{ ease: [0.76,0,0.24,2], duration: 2 }}
-                      className=" w-[15vw] h-10 bg-red-500 relative top-1"
+                      className=" w-[15vw] h-16 bg-red-500 relative top-1"
                     ></motion.div>
                   )}
-                  <p className="  tracking-tight uppercase leading-14 text-5xl font-semibold">
+                  <p className="  tracking-tight uppercase leading-14 text-7xl font-semibold">
                     {Item}
                   </p>
                 </div>
