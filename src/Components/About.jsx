@@ -9,7 +9,7 @@ const About = () => {
       className=" w-full py-20 bg-yellow-200 rounded-tl-3xl rounded-tr-3xl "
     >
       <h1 className=" text-black">
-        Ochi is a strategic partner for fast-grow­ing tech businesses that need
+        our company  is a strategic partner for fast-grow­ing tech businesses that need
         to raise funds, sell prod­ucts, ex­plain com­plex ideas, and hire great
         peo­ple.
       </h1>
